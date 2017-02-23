@@ -21,4 +21,9 @@ Scripts for imagemagick/etc based on scripts posted on reddit by user maybe_born
     </keybind>
 ```
 
+![Alt text](http://i.imgur.com/Zlums9C.jpg "Colorful Dark BG")
+![Alt text](http://i.imgur.com/A8S2dqc.png "Dark BG")
+![Alt text](http://i.imgur.com/WRryVbt.jpg "Light BG")
+![Alt text](http://i.imgur.com/kWLtyae.png "I am a huge weeb.")
+
 
