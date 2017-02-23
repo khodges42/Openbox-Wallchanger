@@ -6,13 +6,13 @@ Wallchange.sh itself is just running the feh command to grab a random wallpaper 
 
 > Fun fact: The keybind wallpaper changer was dreamed up at B-Sides Tampa, when a CTF judge was forced to look at my felix argyle catgirl wallpaper. Don't google that. Any of that.
 
-'''
+```
     <!-- USER DEFINED -->
     <keybind key="A-W">
       <action name="Execute">
 	<command>bash ~/code/bash/wallchanger/wallchange.sh</command>
       </action>
     </keybind>
-'''
+```
 
 
